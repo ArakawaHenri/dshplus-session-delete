@@ -1,0 +1,4 @@
+- insert:
+    - id: dshplus-session-delete
+      name: '@dshplus/session-delete'
+      config: {}

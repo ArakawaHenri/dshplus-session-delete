@@ -1,0 +1,23 @@
+{
+  "meta": {
+    "title": "DSH Plus · Session Delete",
+    "description": "Permanently delete archived sessions and clean up their records."
+  },
+  "delete": "Delete permanently…",
+  "heading": "Delete archived session?",
+  "untitled": "Untitled session",
+  "description": "Permanently deletes this session's logs. Workspace files and attachments are kept.",
+  "cancel": "Cancel",
+  "confirm": "Delete",
+  "deleting": "Deleting…",
+  "close": "Close",
+  "error.session-in-use": "Session is in use by another window or process",
+  "error.not-archived": "Session is not archived",
+  "error.session-active": "Session has running work or active reminders",
+  "error.unsupported-format": "Open this session to migrate its format first",
+  "error.unsupported-backend": "JSONL storage required",
+  "error.unsupported-runtime": "Restart DSH before deleting this retained session",
+  "error.session-unavailable": "Could not verify session log",
+  "error.cleanup-failed": "Logs deleted, but record cleanup failed",
+  "error.generic": "Delete failed"
+}
